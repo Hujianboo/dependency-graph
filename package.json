@@ -1,6 +1,6 @@
 {
   "name": "dependency-graph-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dependency-graph-js is a tool which is used to analyze the dependency of javascript files.",
   "main": "index.js",
   "bin": {
