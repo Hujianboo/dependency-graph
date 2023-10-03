@@ -1,4 +1,7 @@
-# dependency-graph-js
+# dependency-graph-js 
+![Version](https://img.shields.io/npm/v/dependency-graph-js)
+![License](https://img.shields.io/npm/l/dependency-graph-js) 
+
 dependency-graph-js is a tool which is used to analyze the dependency of javascript files . 
 ## installation
 `yarn add dependency-graph-js -g` 
