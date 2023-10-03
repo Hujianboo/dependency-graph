@@ -1,6 +1,6 @@
 {
   "name": "dependency-graph-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "dependency-graph-js is a tool which is used to analyze the dependency of javascript files.",
   "main": "index.js",
   "bin": {
@@ -10,8 +10,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "hujianbo",
+  "license": "MIT",
   "dependencies": {
     "@babel/parser": "^7.23.0",
     "lodash-es": "^4.17.21"
